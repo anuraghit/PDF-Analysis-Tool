@@ -8,7 +8,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 from langchain_community.vectorstores import FAISS
 
 # Your Google API key
-GOOGLE_API_KEY = "AIzaSyA2u0pTSGMRwSq0MgfMduhiat-DN_eXaBU"
+GOOGLE_API_KEY = "your api key"
 
 app = FastAPI()
 
