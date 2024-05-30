@@ -1,6 +1,7 @@
 # FastAPI PDF Search
 
 This project implements a FastAPI application for searching through PDF documents using Google's Generative AI.
+![Capture](https://github.com/anuraghit/PDF-Analysis-Tool/assets/57986981/98e72e8f-f6c4-428a-960b-0aad87e3d1eb)
 
 ## Installation
 
